@@ -10,3 +10,6 @@ To remove Employee  system
 
 ![image](https://github.com/Priya5july/Employee-Management-System/assets/163842122/283554ee-197c-4efb-939d-346e2d02581e)
 TO filter Employee by there phone number or name or  role or department wise
+
+![image](https://github.com/Priya5july/Employee-Management-System/assets/163842122/f1debde8-f9ee-4e6a-8379-c1bac42a181f)
+view all Employees Details
