@@ -8,3 +8,5 @@ To add Employee in the system
 ![image](https://github.com/Priya5july/Employee-Management-System/assets/163842122/7ed7944f-9e1a-453b-b02c-19ecb6e2bda2)
 To remove Employee  system
 
+![image](https://github.com/Priya5july/Employee-Management-System/assets/163842122/283554ee-197c-4efb-939d-346e2d02581e)
+TO filter Employee by there phone number or name or  role or department wise
